@@ -1,0 +1,6 @@
+module.exports = {
+	arrowParens: "avoid",
+	semi: false,
+	useTabs: true,
+	tabWidth: 2,
+}
